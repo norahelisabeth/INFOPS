@@ -1,2 +1,3 @@
-user { "norah" : 
-ensure => present,  }
+user { "norahen" : 
+  ensure => present,  
+}
