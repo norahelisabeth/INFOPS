@@ -1,0 +1,2 @@
+user { "norah" : 
+ensure => present,  }
